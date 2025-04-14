@@ -1,6 +1,6 @@
 - **Compilador seleccionado:** gcc
 - **Versión del Compilador:** gcc.exe (Rev3, Built by MSYS2 project) 14.2.0
-- **Versión de C que el Compilador compila: ** C23
+- **Versión de C que el Compilador compila:** C23
 
 ## Enunciado
 > Crear un programa en C que imprima 'Hello, World!' en la consola.
