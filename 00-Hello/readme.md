@@ -1,7 +1,6 @@
-**Usuario GitHub:** famoji
-- **Legajo:** 218.356-0
-- **Apellido:** Fernandez
-- **Nombre:** Facundo
+- **Compilador seleccionado:** gcc
+- **Versión del Compilador:** gcc.exe (Rev3, Built by MSYS2 project) 14.2.0
+- **Versión de C que el Compilador compila: ** C23
 
 ## Enunciado
 > Crear un programa en C que imprima 'Hello, World!' en la consola.
